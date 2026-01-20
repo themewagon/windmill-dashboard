@@ -2,7 +2,7 @@
 
 #### Preview
 
- - [Demo](https://windmill-dashboard.vercel.app/)
+ - [Demo](https://themewagon.github.io/windmill-dashboard/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/free-tailwind-css-admin-dashboard-template-windmill/)
